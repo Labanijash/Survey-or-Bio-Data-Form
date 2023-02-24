@@ -1,0 +1,16 @@
+/**{
+    background-color: cornflowerblue;
+    
+}*/
+/*body{
+    border: 3px solid blue;
+}*/
+fieldset{
+    border: 8px solid blue;
+    background-color:lightpink;
+    font-style: italic ;
+    font-size: x-large;
+    color: rgb(114, 10, 158);
+    
+    
+}
